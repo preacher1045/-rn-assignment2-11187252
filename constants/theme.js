@@ -11,10 +11,11 @@ const COLORS = {
 };
 
 const FONT = {
-  regular: "DMRegular",
-  medium: "DMMedium",
-  bold: "DMBold",
+  regular: "DMRegular", 
+  medium: "DMMedium", 
+  bold: "DMBold", 
 };
+
 
 const SIZES = {
   xSmall: 10,

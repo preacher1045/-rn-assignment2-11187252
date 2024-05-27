@@ -1,13 +1,12 @@
-# Expo Router Example
+## REACT-NATIVE ASSIGNMENT
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+### STUDENT ID: 11187252
 
-## 🚀 How to use
+![screenshot](/screenshot/Screenshot%202024-05-27%20000224.png)
 
-```sh
-npx create-expo-app -e with-router
-```
+### PROJECT INTRODUCTION
 
-## 📝 Notes
+This project is aimed at teaching us the syntax of react-native and how to setup a react-native environment
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+### PROJECT DESCRIPTION
+I this project we learn how to display our visualize our code using expo and also styling in react-native work and also hoe to structure our code.
